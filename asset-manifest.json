@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/practicasinsti/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/practicasinsti/static/js/main.42b3f914.chunk.js",
-    "main.js.map": "/practicasinsti/static/js/main.42b3f914.chunk.js.map",
+    "main.js": "/practicasinsti/static/js/main.d46493b2.chunk.js",
+    "main.js.map": "/practicasinsti/static/js/main.d46493b2.chunk.js.map",
     "runtime-main.js": "/practicasinsti/static/js/runtime-main.1d532e4a.js",
     "runtime-main.js.map": "/practicasinsti/static/js/runtime-main.1d532e4a.js.map",
     "static/js/2.88e721f6.chunk.js": "/practicasinsti/static/js/2.88e721f6.chunk.js",
     "static/js/2.88e721f6.chunk.js.map": "/practicasinsti/static/js/2.88e721f6.chunk.js.map",
     "index.html": "/practicasinsti/index.html",
-    "precache-manifest.a32b5d1fb5dd22e4042e4491931fd5ce.js": "/practicasinsti/precache-manifest.a32b5d1fb5dd22e4042e4491931fd5ce.js",
+    "precache-manifest.0e00e748da5511352185955d1110d02f.js": "/practicasinsti/precache-manifest.0e00e748da5511352185955d1110d02f.js",
     "service-worker.js": "/practicasinsti/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/practicasinsti/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.88e721f6.chunk.js.LICENSE.txt": "/practicasinsti/static/js/2.88e721f6.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1d532e4a.js",
     "static/js/2.88e721f6.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.42b3f914.chunk.js"
+    "static/js/main.d46493b2.chunk.js"
   ]
 }
